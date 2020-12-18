@@ -1,4 +1,4 @@
-### Hi there 👋🏿 
+### 👋🏿 Hi there
 
 I'm a software engineer based out of Fort Lauderdale, FL. I enjoy working with JavaScript, ReactJS, NextJS, and NodeJS while also learning more about Python, React Native and TypeScript.
 
@@ -9,7 +9,7 @@ I'm a software engineer based out of Fort Lauderdale, FL. I enjoy working with J
 
 --- 
 
-## Social Media
+## 📲 Social Media
 [![linkedin-circled-shake.gif](https://s8.gifyu.com/images/linkedin-circled-shake.gif)](https://www.linkedin.com/in/junior-dugue/)
 [![twitter-circled-shake.gif](https://s8.gifyu.com/images/twitter-circled-shake.gif)](https://twitter.com/realnamejr)
 
