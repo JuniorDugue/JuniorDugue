@@ -1,8 +1,11 @@
 ### Hi there 👋
+![Profile views](https://gpvc.arturio.dev/juniordugue)
+
+## 📈 My Github Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniordugue)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=juniordugue&show_icons=true)
 
 <!--
 **JuniorDugue/JuniorDugue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Profile views](https://gpvc.arturio.dev/juniordugue)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
