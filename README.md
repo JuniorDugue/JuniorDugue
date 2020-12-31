@@ -2,12 +2,12 @@
 
 # ![wave](/assets/wave.gif)Hi there, I'm Junior!
 
-- 🔭 I’m currently working on data structures & algorithims
+- 🔭 I’m currently working on data structures & algorithms
 - 🌱 I’m currently learning python & typescript
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about my favorite react library
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I can create songs from scratch in my head within 10-15mins
+- ⚡ Fun fact: I'm always in the mood for food
 
 ---
 
@@ -22,7 +22,7 @@
 
 <details>
 <summary><strong>Long Intro</strong></summary>
- <p>My name's Junior, I'm a full-stack developer & graphic designer with an interest in full-stack web development and applications.</p>
+ <p>I'm a full-stack developer & graphic designer with an interest in full-stack web development and applications.</p>
           <p>I've spent the last 18 months studying full stack javascript development at Lambda School while working full time. In their immersive program for part-time students, I learned Frontend & Backend Javascript, Complex State Management, API Development, Databases, Data Structures & Algorithms, and Computer Science among other topics.</p>
           <p>Before becoming a full-stack developer, I always had interests in technologies, gadgets, and art. I graduated from Broward College in 2012 located in South Florida with a degree in Digital Multimedia. That’s where I was first introduced to web programming, along with graphic & web design, 3D & motion graphics, and video editing.</p>
           <p>When I'm not coding or designing, I'm usually watching anime, playing video games, or working up a sweat at a nearby park/gym.</p>
@@ -44,6 +44,14 @@
         <img src="assets/rickandmorty.gif" width="100%" alt="Rick and Morty"/>
       </a>
       <p><strong>rick and morty app built with next.js & framer motion using the rick & morty wiki api</strong></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>gFg | goodie Foodie Galleries</h3><br/>
+      <p><a target="_blank" href="https://github.com/JuniorDugue/grid_gallery_app">Repo</a> | <a target="_blank" href="https://grid-gallery-app.vercel.app/gallery">Site</a></p><br/>
+      <a target="_blank" href="https://grid-gallery-app.vercel.app/gallery">
+        <img src="assets/workInProgress.gif" width="100%" alt="Rick and Morty"/>
+      </a>
+      <p><strong>Image Gallery app with React, CSS Grid, React Router and styled-components</strong></p>
     </td>
   </tr>
 </table>
